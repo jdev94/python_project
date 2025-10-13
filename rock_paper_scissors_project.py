@@ -37,7 +37,7 @@ while True: # Boucle principale du jeu
         ):
             print(f"\n{choix} contre {selection_rand}, Vous avez gagné !\n")
         else:
-            print(f"{choix} contre {selection_rand}, vous avez perdu !\n")
+            print(f"\n{choix} contre {selection_rand}, vous avez perdu !\n")
 
     # Demande si l'utilisateur souhaite recommencer (validation obligatoire)
     while True:
