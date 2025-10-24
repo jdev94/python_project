@@ -1,24 +1,24 @@
-Projets Python - Portfolio Formation
+This repository gathers projects developed during my Python training:
 
-Ce dépôt regroupe quatre projets développés pendant ma formation Python :
+[FizzBuzz_project.py]: displays Fizz/Buzz/FizzBuzz according to logic game rules.
 
-[FizzBuzz_project.py] : affiche Fizz/Buzz/FizzBuzz selon les règles du jeu de logique.
+[IMC_project.py]: BMI (Body Mass Index) calculator with user input validation.
 
-[IMC_project.py] : calculateur d’indice de masse corporelle (IMC) avec contrôle des saisies.
+[randomnumb_project_v0.1.py]: a first random number guessing game.
 
-[randomnumb_project_v0.1.py] : premier jeu de devinette d’un nombre aléatoire.
+[random_number_v0.2.py]: improved version with error handling and replay option.
 
-[random_number_v0.2.py] : version améliorée avec gestion des erreurs et option de rejouer.
+[rock_paper_scissors_project.py]: interactive Rock-Paper-Scissors game in Python, includes typo correction (difflib), random computer choice, and replay option.
 
-[rock_paper_scissors_project.py] : jeu interactif Pierre-Papier-Ciseaux en Python, avec correction automatique des fautes de frappe (difflib), choix aléatoire par l’ordinateur et option de rejouer.
+[task_list_project.py]: object-oriented command-line to-do list manager. Add, complete, delete, and display tasks using a clear menu. Fully commented and beginner-friendly.
 
-Utilisation:
+Usage:
 
-Chaque script est autonome et peut être lancé en Python 3 (aucune dépendance supplémentaire requise).  
-Suivre les instructions à l’écran dans chaque programme.
+Each script is standalone and can be launched with Python 3 (no additional dependencies required).
+Simply follow the on-screen instructions in each program.
 
-Objectifs:
+Goals:
 
-Mon objectif est de maîtriser le langage Python dans son ensemble, en consolidant toutes les bases esentielles et en appliquant mes connaissances acquises sur des projets variées.
+My goal is to master the Python language as a whole, consolidating all essential basics and applying acquired knowledge to varied projects.
 
-Ce dépôt illustre l'évolution de mes compétences au fil de ma formation.
+This repository illustrates the evolution of my skills throughout my training.
