@@ -10,6 +10,8 @@ Ce dépôt regroupe quatre projets développés pendant ma formation Python :
 
 [random_number_v0.2.py] : version améliorée avec gestion des erreurs et option de rejouer.
 
+[rock_paper_scissors_project.py] : jeu interactif Pierre-Papier-Ciseaux en Python, avec correction automatique des fautes de frappe (difflib), choix aléatoire par l’ordinateur et option de rejouer.
+
 Utilisation:
 
 Chaque script est autonome et peut être lancé en Python 3 (aucune dépendance supplémentaire requise).  
