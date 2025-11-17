@@ -31,7 +31,6 @@ class Tasks():
     def display(self):
         """Print the current list of tasks with their status: checkmark if done, cross if not."""
         print("\n--------------------------\n")
-        print("\n--------------------------\n")
         for i, t in enumerate(self.tasks):
             status = "✔️" if self.done[i] else "❌"
             print(f"{i}. {t} : {status}")
